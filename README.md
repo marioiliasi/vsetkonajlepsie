@@ -1,3 +1,3 @@
 # vsetkonajlepsie
 
-To run vsetkonajlepsie open and terminal and run boss.sh as root.
+To run vsetkonajlepsie open a terminal and run boss.sh as root.
