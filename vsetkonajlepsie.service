@@ -1,0 +1,8 @@
+[Unit]
+Description=Happy birthday, sucker!
+
+[Service]
+ExecStart=/usr/bin/vsetkonajlepsie.sh
+
+[Install]
+WantedBy=multi-user.target 
